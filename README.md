@@ -11,3 +11,4 @@
 - thinking-notes/thi-005.md: 魔素
 - thinking-notes/thi-006.md: 魔力
 - thinking-notes/thi-007.md: 魔力帯合
+- thinking-notes/thi-008.md: 魔法禁縛
