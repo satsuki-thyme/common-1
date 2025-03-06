@@ -1,13 +1,11 @@
 # 物事
 - item: イェスケの道標
-  applicable chapter: 1
   contents:
     - カルダの方角を指し示す魔導具
     - ヘストエリアの目を二つ集めると機能し始める
 
 
 - item: ヴァンデラント文明
-  applicable chapter: 1
   contents:
     - ハイエルフを頂点とする文明
     - ヴァンデラント文明の崩壊はエスの狂乱が引き起こした
@@ -16,7 +14,6 @@
 
 
 - item: エフィス
-  applicable chapter: 1
   contents:
     - 遷世教団
 
@@ -25,7 +22,6 @@
 
 
 - item: 幻霊
-  applicable chapter: continuous
   contents:
     - 幻界の存在 => 世界 / 幻界
     - この世界に召喚されると幻界での存在が確かなものになり幻界での強さが増す
@@ -60,7 +56,6 @@
 
 
 - item: 世界
-  applicable chapter: continuous
   contents:
     - item: 幻界
       contents:
@@ -77,7 +72,6 @@
 
 
 - item: 世界概念
-  applicable chapter: continuous
   contents:
     - item: 構造
       contents:
@@ -149,7 +143,6 @@
 
 
 - item: ゼノザ
-  applicable chapter: 1
   contents:
     - 邪教
 
@@ -158,7 +151,6 @@
 
 
 - item: ヘストエリアの目
-  applicable chapter: 1
   contents:
     - イェスケの道標を機能させる仕組み
     - 二つあり、合わせることで仕組みが成る
@@ -647,9 +639,43 @@
                 - 権能魔法と同じ
 
 
+    - item: 魔素接合部
+      contents:
+        - 魔素器官が魔法行使などのため他の魔素存在と接合した部分
+
+
+    - item: 魔素転換力
+      contents:
+        - 魔素器官が魔素接合部の魔素状態を別の魔素状態に転換する力
+
+
     - item: 魔法回路
       contents:
         - 魔質で構成された、魔素器官を誘導する道標
+
+
+    - item group: 魔法力
+      contents:
+        - higher item: 魔法力
+          contents:
+            - 魔法力が多いほど魔法を強く長く行使できる
+            - 魔素器官における体力の概念
+            - 魔法最大力、魔法瞬発力、魔法持久力に分けて考えることができる
+
+
+        - item: 魔法最大力
+          contents:
+            - 魔素器官が出せる最大の力の概念
+
+
+        - item: 魔法瞬発力
+          contents:
+            - 魔素器官における瞬発力の概念
+
+
+        - item: 魔法持久力
+          contents:
+            - 魔素器官における持久力の概念
 
 
 - item: 魔結晶
@@ -698,7 +724,6 @@
 
 
 - item: 妖精の輪
-  applicable chapter: 1
   contents:
     - フェアリーリングのこと
     - 妖精の国へ転移できる
@@ -706,7 +731,6 @@
 
 
 - item: レダ
-  applicable chapter: 1
   contents:
     - 聖徒教会
 
@@ -745,7 +769,6 @@
 
 
 - item: 
-  applicable chapter: 
   contents:
     - 
 

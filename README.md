@@ -1,6 +1,7 @@
 # 共通ドキュメント 1
 ## 文書
 ### 設定
+- settings/magic.yml:  魔法
 - settings/things.yml: 物事
 
 ### 思考ノート
@@ -11,4 +12,4 @@
 - thinking-notes/thi-005.md: 魔素
 - thinking-notes/thi-006.md: 魔力
 - thinking-notes/thi-007.md: 魔力帯合
-- thinking-notes/thi-008.md: 魔法禁縛
+- thinking-notes/thi-008.md: 魔法対象者の魔法力を使って持続する魔法
