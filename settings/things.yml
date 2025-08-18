@@ -26,6 +26,20 @@
 
 - item: 邪教ゼノザ => ゼノザ
 
+- item group: 次元
+  contents:
+    - higher item: 次元
+      contents:
+        - 
+
+    - item: 魔素の次元 => 魔素 / 魔素の次元
+
+    - item: 実存の次元 => 実存の次元
+
+- item: 実存の次元
+  contents:
+    - 三次元世界
+
 - item: 召喚魔法 => 魔法 / 召喚魔法
 
 - item: 聖徒教会レダ => レダ
