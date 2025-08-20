@@ -1,8 +1,9 @@
 # 共通ドキュメント 1
 ## 文書
 ### 設定
-- settings/magic.yml:  魔法
-- settings/things.yml: 物事
+- settings/divine-race.gsheet: 神族
+- settings/magic.yml:          魔法
+- settings/things.yml:         物事
 
 ### 思考ノート
 - thinking-notes/thi-001.md: 魔法の行使を阻害するアイテム
