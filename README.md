@@ -1,7 +1,7 @@
 # 共通ドキュメント 1
 ## 文書
 ### 設定
-- settings/divine-race.gsheet: 神族（[divine-race.gsheet](settings/divine-race.gsheet)）
+- settings/divine-race.gsheet: 神族
 - settings/magic.yml:          魔法
 - settings/things.yml:         物事
 
