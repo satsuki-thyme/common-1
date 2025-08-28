@@ -24,6 +24,17 @@
     - この世界に召喚されると力が強くなるため全能感を感じる
       - 召喚された幻霊は気分が高揚している
 
+- item group: 鉱物
+  contents:
+
+  - higher item: 鉱物
+    contents:
+      - 
+
+  - item: 照花石鉱
+    contents:
+      - 弱い魔物が忌避するため青燐草とともに魔物除けの材料として使われている
+
 - item: 邪教ゼノザ => ゼノザ
 
 - item group: 次元
@@ -693,6 +704,35 @@
       contents:
         - 星の内部から湧き上がる魔力の流れ
         - 地上に噴き出し、また地上近くを通って別の地上に噴き出す
+
+- item group: 薬草
+  contents:
+
+    - higher item: 薬草
+      contents:
+
+    - item: 青燐草
+      contents:
+        - 弱い魔物が忌避するため照花石鉱とともに魔物除けの材料として使われている
+
+- item group: 野菜
+  contents:
+    - higher item: 魔力
+      contents:
+        - 青色透明に見える
+        - 魔力子の観測結果
+
+    - item: 包葉菜
+      contents:
+        - キャベツ
+
+    - item: 朝紅菜
+      contents:
+        - カブ
+
+    - item: 
+      contents:
+        - 
 
 - item: 妖精の輪
   contents:
