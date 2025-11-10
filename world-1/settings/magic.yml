@@ -10,7 +10,7 @@
 - item:
   name: ヴェルド
   description: 筋力低下
-  applicable op: 73
+  applicable op: 74
   gist:
     手元と相手の足下に魔法陣が広がる
     相手の足下の魔法陣から黒い閃光が発せられる
