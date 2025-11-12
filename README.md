@@ -22,3 +22,4 @@
 - world-1/thinking-notes/thi-008.md: 魔法対象者の魔法力を使って持続する魔法
 - world-1/thinking-notes/thi-009.md: 国の設定
 - world-1/thinking-notes/thi-010.md: 王宮
+- world-1/thinking-notes/thi-011.md: 魔法
