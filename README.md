@@ -8,6 +8,7 @@
 
 - world-1/settings/divine-race.gsheet: 神族
 - world-1/settings/magic.yml:          魔法
+- world-1/settings/subject.yml:        個別の主体
 - world-1/settings/things.yml:         物事
 
 #### 思考ノート
